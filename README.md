@@ -33,3 +33,7 @@ dashboard.
 Submit the source code of dashboard and the output screenshot.
 (To get the source code > Click Edit on top-right of dashboard > Click on Source button and copy the
 XML code.)
+
+
+# Output: 
+![Screenshot 2025-07-02 212536](https://github.com/user-attachments/assets/0107feb4-0bba-4c82-bda9-46d106fc702f)
