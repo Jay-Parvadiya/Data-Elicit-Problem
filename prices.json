@@ -1,0 +1,114 @@
+[
+    {
+        "productId": "DB-SG-G01",
+        "product_name": "Mediocre Kingdoms",
+        "price": "24.99",
+        "sale_price": "19.99",
+        "Code": "A"
+    },
+    {
+        "productId": "DC-SG-G02",
+        "product_name": "Dream Crusher",
+        "price": "39.99",
+        "sale_price": "24.99",
+        "Code": "B"
+    },
+    {
+        "productId": "FS-SG-G03",
+        "product_name": "Final Sequel",
+        "price": "24.99",
+        "sale_price": "16.99",
+        "Code": "C"
+    },
+    {
+        "productId": "WC-SH-G04",
+        "product_name": "World of Cheese",
+        "price": "24.99",
+        "sale_price": "19.99",
+        "Code": "D"
+    },
+    {
+        "productId": "WC-SH-T02",
+        "product_name": "World of Cheese Tee",
+        "price": "9.99",
+        "sale_price": "6.99",
+        "Code": "E"
+    },
+    {
+        "productId": "PZ-SG-G05",
+        "product_name": "Puppies vs. Zombies",
+        "price": "4.99",
+        "sale_price": "1.99",
+        "Code": "F"
+    },
+    {
+        "productId": "CU-PG-G06",
+        "product_name": "Curling 2014",
+        "price": "19.99",
+        "sale_price": "16.99",
+        "Code": "G"
+    },
+    {
+        "productId": "MB-AG-G07",
+        "product_name": "Manganiello Bros.",
+        "price": "39.99",
+        "sale_price": "24.99",
+        "Code": "H"
+    },
+    {
+        "productId": "MB-AG-T01",
+        "product_name": "Manganiello Bros. Tee",
+        "price": "9.99",
+        "sale_price": "6.99",
+        "Code": "I"
+    },
+    {
+        "productId": "FI-AG-G08",
+        "product_name": "Orvil the Wolverine",
+        "price": "39.99",
+        "sale_price": "24.99",
+        "Code": "J"
+    },
+    {
+        "productId": "BS-AG-G09",
+        "product_name": "Benign Space Debris",
+        "price": "24.99",
+        "sale_price": "19.99",
+        "Code": "K"
+    },
+    {
+        "productId": "SC-MG-G10",
+        "product_name": "SIM Cubicle",
+        "price": "19.99",
+        "sale_price": "16.99",
+        "Code": "L"
+    },
+    {
+        "productId": "WC-SH-A01",
+        "product_name": "Holy Blade of Gouda",
+        "price": "5.99",
+        "sale_price": "2.99",
+        "Code": "M"
+    },
+    {
+        "productId": "WC-SH-A02",
+        "product_name": "Fire Resistance Suit of Provolone",
+        "price": "3.99",
+        "sale_price": "1.99",
+        "Code": "N"
+    },
+    {
+        "productId": "SF-BVS-G01",
+        "product_name": "Grand Theft Scooter",
+        "price": "26.99",
+        "sale_price": "21.99",
+        "Code": "O "
+    },
+    {
+        "productId": "SF-BVS-01",
+        "product_name": "Pony Run",
+        "price": "49.99",
+        "sale_price": "41.99",
+        "Code": "P"
+    }
+]
